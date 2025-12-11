@@ -44,10 +44,6 @@ function createHTML() {
         </div>
       </div>
     </div>
-    
-    <footer class="footer">
-      <p>Made by Hyowon Wang</p>
-    </footer>
   `;
 }
 
